@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ömer</h1>
 <h3 align="center">A Software Developer from Ankara</h3>
 
-- 🌱 I'm currently learning **.NET Core, AngularJS**
+- 🌱 I'm currently learning **.NET Core, AngularJS, React**
 
 - 📝 I share video on youtube **[My channel](https://www.youtube.com/ömeryavaş)** 
 
